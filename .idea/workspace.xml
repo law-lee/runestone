@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcff2aa3-7a9e-4c92-9e81-a6fc317e6beb" name="Default" comment="" />
+    <list default="true" id="dcff2aa3-7a9e-4c92-9e81-a6fc317e6beb" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wx_send_message.py" afterPath="$PROJECT_DIR$/wx_send_message.py" />
+    </list>
     <ignored path="myworkspace.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -34,18 +36,18 @@
       <file leaf-file-name="sierpinski_triangle.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sierpinski_triangle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="897">
               <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wx_send_message.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="wx_send_message.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wx_send_message.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+            <state relative-caret-position="416">
+              <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
               <folding>
                 <element signature="e#47#86#0" expanded="true" />
               </folding>
@@ -53,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="redis_mon.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="redis_mon.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/redis_mon.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="215" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="262" selection-end-column="14" />
+            <state relative-caret-position="4807">
+              <caret line="209" column="36" selection-start-line="209" selection-start-column="36" selection-end-line="209" selection-end-column="36" />
               <folding>
                 <element signature="e#71#100#0" expanded="true" />
               </folding>
@@ -68,7 +70,7 @@
       <file leaf-file-name="bot.py" pinned="false" current-in-tab="false">
         <entry file="file://D:/Program Files/python2.7.12/Lib/site-packages/wxpy/api/bot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="4899">
               <caret line="222" column="8" selection-start-line="222" selection-start-column="8" selection-end-line="222" selection-end-column="8" />
               <folding />
             </state>
@@ -78,7 +80,7 @@
       <file leaf-file-name="core.py" pinned="false" current-in-tab="false">
         <entry file="file://D:/Program Files/python2.7.12/Lib/site-packages/itchat/core.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="8073">
               <caret line="356" column="51" selection-start-line="356" selection-start-column="29" selection-end-line="356" selection-end-column="51" />
               <folding />
             </state>
@@ -88,7 +90,7 @@
       <file leaf-file-name="messages.py" pinned="false" current-in-tab="false">
         <entry file="file://D:/Program Files/python2.7.12/Lib/site-packages/itchat/components/messages.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-10">
+            <state relative-caret-position="8073">
               <caret line="361" column="53" selection-start-line="361" selection-start-column="53" selection-end-line="361" selection-end-column="53" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
@@ -100,7 +102,7 @@
       <file leaf-file-name="explore_maze.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/explore_maze.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="1173">
               <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
               <folding />
             </state>
@@ -110,7 +112,7 @@
       <file leaf-file-name="turtle.py" pinned="false" current-in-tab="false">
         <entry file="file://D:/Program Files/python2.7.12/Lib/lib-tk/turtle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="73715">
               <caret line="3214" column="8" selection-start-line="3214" selection-start-column="8" selection-end-line="3214" selection-end-column="8" />
               <folding />
             </state>
@@ -120,7 +122,7 @@
       <file leaf-file-name="measure_perf.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/measure_perf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="276">
               <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
@@ -132,7 +134,7 @@
       <file leaf-file-name="__builtin__.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/1451520722/__builtin__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="17112">
               <caret line="744" column="11" selection-start-line="744" selection-start-column="11" selection-end-line="744" selection-end-column="11" />
               <folding />
             </state>
@@ -147,6 +149,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -180,7 +185,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
+    <option name="width" value="1932" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -208,7 +213,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -229,6 +233,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -581,27 +586,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17377399" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17574786" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28030303" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28463203" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32792208" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39969134" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28463203" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39969134" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -795,11 +800,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/redis_mon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4807">
+          <caret line="209" column="36" selection-start-line="209" selection-start-column="36" selection-end-line="209" selection-end-column="36" />
+          <folding>
+            <element signature="e#71#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wx_send_message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#47#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/stack.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1634">
           <caret line="86" column="13" selection-start-line="86" selection-start-column="13" selection-end-line="86" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -807,7 +831,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3857">
           <caret line="204" column="0" selection-start-line="204" selection-start-column="0" selection-end-line="204" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -823,7 +846,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -831,7 +853,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1824">
           <caret line="96" column="22" selection-start-line="96" selection-start-column="22" selection-end-line="96" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -865,7 +886,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -881,7 +901,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1387">
           <caret line="73" column="2" selection-start-line="73" selection-start-column="2" selection-end-line="73" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -889,7 +908,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3857">
           <caret line="204" column="0" selection-start-line="204" selection-start-column="0" selection-end-line="204" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -927,7 +945,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -956,7 +973,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -989,7 +1005,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1047,7 +1062,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1634">
           <caret line="86" column="13" selection-start-line="86" selection-start-column="13" selection-end-line="86" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1055,7 +1069,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3857">
           <caret line="204" column="0" selection-start-line="204" selection-start-column="0" selection-end-line="204" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1063,7 +1076,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1071,7 +1083,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1824">
           <caret line="96" column="22" selection-start-line="96" selection-start-column="22" selection-end-line="96" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1079,13 +1090,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/measure_perf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="276">
           <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
@@ -1095,7 +1105,7 @@
     </entry>
     <entry file="file://D:/Program Files/python2.7.12/Lib/lib-tk/turtle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="73715">
           <caret line="3214" column="8" selection-start-line="3214" selection-start-column="8" selection-end-line="3214" selection-end-column="8" />
           <folding />
         </state>
@@ -1103,7 +1113,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/explore_maze.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="1173">
           <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
           <folding />
         </state>
@@ -1111,7 +1121,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sierpinski_triangle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="897">
           <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
           <folding />
         </state>
@@ -1119,7 +1129,7 @@
     </entry>
     <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/1451520722/__builtin__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="17112">
           <caret line="744" column="11" selection-start-line="744" selection-start-column="11" selection-end-line="744" selection-end-column="11" />
           <folding />
         </state>
@@ -1129,13 +1139,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://D:/Program Files/python2.7.12/Lib/site-packages/itchat/core.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="8073">
           <caret line="356" column="51" selection-start-line="356" selection-start-column="29" selection-end-line="356" selection-end-column="51" />
           <folding />
         </state>
@@ -1143,7 +1152,7 @@
     </entry>
     <entry file="file://D:/Program Files/python2.7.12/Lib/site-packages/itchat/components/messages.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
+        <state relative-caret-position="8073">
           <caret line="361" column="53" selection-start-line="361" selection-start-column="53" selection-end-line="361" selection-end-column="53" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
@@ -1153,21 +1162,17 @@
     </entry>
     <entry file="file://D:/Program Files/python2.7.12/Lib/site-packages/wxpy/api/bot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="4899">
           <caret line="222" column="8" selection-start-line="222" selection-start-column="8" selection-end-line="222" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/QR.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/QR.png" />
     <entry file="file://$PROJECT_DIR$/wx_send_message.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        <state relative-caret-position="416">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
           <folding>
             <element signature="e#47#86#0" expanded="true" />
           </folding>
@@ -1176,8 +1181,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/redis_mon.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="215" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="262" selection-end-column="14" />
+        <state relative-caret-position="4807">
+          <caret line="209" column="36" selection-start-line="209" selection-start-column="36" selection-end-line="209" selection-end-column="36" />
           <folding>
             <element signature="e#71#100#0" expanded="true" />
           </folding>
